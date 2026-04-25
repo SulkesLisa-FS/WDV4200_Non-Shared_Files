@@ -1,0 +1,23 @@
+{
+  "name": "wdv4200_non-shared_files",
+  "version": "1.0.0",
+  "description": "non shared secrets demo",
+  "homepage": "https://github.com/SulkesLisa-FS/WDV4200_Non-Shared_Files#readme",
+  "bugs": {
+    "url": "https://github.com/SulkesLisa-FS/WDV4200_Non-Shared_Files/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SulkesLisa-FS/WDV4200_Non-Shared_Files.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+   "scripts": {
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
